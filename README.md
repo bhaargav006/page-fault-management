@@ -11,3 +11,6 @@ For this project, different paging schemes are implemented which evict using the
   1. Random
   2. FIFO
   3. Appromixated LRU
+  
+## Docs
+The policies implemented are compared and contrasted in this experimental study. Please refer documentation for a detailed final report. 
